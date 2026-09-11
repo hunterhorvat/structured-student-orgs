@@ -1,34 +1,24 @@
-# **Organize files without guesswork**
+# **Resolve common problems** 
 
-This documentation helps members of student-run university organizations create a shared folder and file-naming system that remains usable and understandable from year to year. 
+[Return to the documentation home](../README.md) | [Review the procedure](procedure.md)
 
-## **The communication problem**
+Use the table below to diagnose common problems. 
 
-## **Intended audience**
+| Problem | Likely cause | Response |
+|--------:| :-----------:| :--------|
+| Files do not appear in chronological order.  | Files are not dated at all or appear in differing order. | Rewrite every file in the chosen standardized format with academic year at the front.|
+| An executive board member cannot edit a document. | The collaborator does not have editing access. | Ensure that collaborators who require editing access are listed under People with access within the file. |
 
-Use this guide if you are a graduate or undergraduate member of a student organization who: 
+## **Escalation questions**
 
-- Works with collaborative files in a shared cloud folder
-- Understands ordinary files and folders
-- May not have experience with formal records management
-- Needs to locate, identify, and exchange files quickly 
+Contact the staff or faculty advisor of the organization when you cannot answer one of these questions confidently:
 
-## **What this guide will help you do** 
+1. Is this storage location appropriate for the information? 
+2. Who is approved to access the document outside of the executive board?
 
-After using this documentation, you should be able to: 
+## **Prevent recurring problems**
 
-- Explain the logic of the organization’s folder and file-naming system.
-- Create 
-- Rename existing files consistently. 
-- Diagnose common naming and organization problems. 
-- Appropriately archive materials. 
-
-## **Documentation**
-
-- Understand the system
-- Set up and apply the system
-- Resolve common problems
-- Review sources and acknowledgments 
-
-## **Quick example**
-
+- Add the naming pattern to the board's training material.
+- Review new file names during regular project meetings.
+- Record approved codes in one shared reference.
+- Archive files deliberately rather than using `00_archive` as a miscellaneous folder.
