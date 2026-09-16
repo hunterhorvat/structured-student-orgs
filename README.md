@@ -1,4 +1,4 @@
-# **Organize files without guesswork**
+# **Organize student organization documents without guesswork**
 
 This documentation helps members of student-run university organizations create a shared folder and file-naming system that remains usable and understandable from year to year. 
 
