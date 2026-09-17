@@ -4,12 +4,13 @@ This documentation helps members of student-run university organizations create 
 
 ## **The communication problem**
 
-Student run organizations are facilitated by busy undergraduate and graduate students who often upload files under names such as `meeting-minutes.docx`, `5k-planning`, or `dues.xlsx`. These may make sense to the person who named them, but does not explain to other members what the file contains, when it was created, or if it is still actively being used. 
+Student run organizations are facilitated by busy undergraduate and graduate students who often upload files under names such as `meeting-minutes.docx`, `5k-planning`, or `dues.xlsx`. These may make sense to the person who named them, but does not explain to other members what the file contains, when it was created, or if it is still actively being used. Additionally, student organizations typically elect new officers every academic year. It is not common for students to appropriately archive materials without a procedure to do so in place. 
 
 ## **Intended audience**
 
 Use this guide if you are a graduate or undergraduate member or staff/faculty advisor of a student organization who: 
 
+- Is responsible for managing shared files
 - Works with collaborative files in a shared cloud folder
 - Understands ordinary files and folders
 - May not have experience with formal records management
@@ -21,8 +22,8 @@ After using this documentation, you should be able to:
 
 - Explain the logic of the organization’s folder and file-naming system. 
 - Rename existing files consistently. 
-- Diagnose common naming and organization problems. 
-- Appropriately archive materials. 
+- Assign file access permissions. 
+- Appropriately archive outdated materials. 
 
 ## **Documentation**
 
@@ -41,7 +42,7 @@ dues.xlsx
 
 use this structured name: 
 ```text
-2026-27_dues-tracking.xlsx
+2026-27_FINS_dues-tracking.xlsx
 ```
 
 The structured name identifies the academic year and document type. 
