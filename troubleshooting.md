@@ -1,6 +1,6 @@
 # **Resolve common problems** 
 
-[Return to the documentation home](../README.md) | [Review the procedure](procedure.md)
+[Return to the documentation home](/README.md) | [Review the procedure](procedure.md)
 
 Use the table below to diagnose common problems. 
 
