@@ -1,6 +1,6 @@
 # **Sources and acknowledgments**
 
-[Return to the documentation home](../README.md)
+[Return to the documentation home](/README.md)
 
 ## **Sources to consult for an actual project** 
 - The organization's national bylaws, if applicable 
