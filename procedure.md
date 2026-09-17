@@ -1,6 +1,6 @@
 # **Set up and apply the system**
 
-[Return to the documentation home](../README.md) | [Review the system](overview.md) | [Get troubleshooting help](troubleshooting.md)
+[Return to the documentation home](/README.md) | [Review the system](overview.md) | [Get troubleshooting help](troubleshooting.md)
 
 ## **Purpose**
 
