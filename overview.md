@@ -1,6 +1,6 @@
 # **Understand the file-organization system**
 
-[Return to the documentation home](../README.md) | [Continue to the procedure](procedure.md)
+[Return to the documentation home](/README.md) | [Continue to the procedure](procedure.md)
 
 ## **Why the system is necessary** 
 
