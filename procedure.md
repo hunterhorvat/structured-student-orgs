@@ -78,7 +78,9 @@ Follow this procedure to create the standard folder structure and rename a set o
 ### Part 5: Archive material 
 1. When leadership changes at the end of each school year, ensure that all materials from the previous year are properly labelled and organized in the appropriate folder. 
 2. Click and drag the `Cool-Student-Org-2026-2027` folder into the `06_archive` folder. 
-3. Repeat steps in part 1 for the upcoming school year. 
+3. Repeat steps in part 1 for the upcoming school year.
+
+##### *NOTE: Leadership should retain the same `06_archive` folder every year. To maintain the organization system, a new archive folder should never be created.* 
 
 ### Completion check
 The procedure is complete when active files have consistent names, appear in the appropriate folders, open correctly, and can be interpreted by another member. 
