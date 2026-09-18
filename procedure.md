@@ -53,7 +53,7 @@ Follow this procedure to create the standard folder structure and rename a set o
 2026-27_MKTG
 ```
 
-- Add another underscore and identify the content of the file. Write a brief one or two word description for the file's contents.  
+3. Add another underscore and identify the content of the file. Write a brief one or two word description for the file's contents.  
 
 ```text
 2026-27_MKTG_branding
