@@ -10,7 +10,7 @@ A file name functions as a compact technical description. It should give collabo
 
 | Problem | Design Response |
 | ------- | --------------- |
-| Members cannot identify a file's contents | Every name includes a controlled document type code |
+| Members cannot identify a file's contents | Every name includes a controlled document type code and short content description |
 | Files appear in an unpredictable order | Every name begins with the date |
 | Files appear cluttered and difficult to search through | Each file is sorted into a labeled folder and subfolder as needed | 
 
@@ -25,7 +25,7 @@ Cool-Student-Org_2026-27/
 ├── 03_financials/
 ├── 04_marketing/
 ├── 05_membership/
-└── 00_archive/
+└── 06_archive/
 ```
 
 The numeric prefixes maintain the same order across computers and cloud platforms. 
@@ -37,7 +37,7 @@ The numeric prefixes maintain the same order across computers and cloud platform
 | `03_financials` | dues tracking spreadsheets, budget planning, expense reports | meeting attendance |
 | `04_marketing` | logos, branding guidelines | event plans |
 | `05_membership` | bylaws, handbooks, transition documents | branding guidelines |
-| `00_archive` | retained material from previous academic years | active working files |
+| `06_archive` | retained material from previous academic years | active working files |
 
 ## **File-name pattern** 
 
