@@ -69,10 +69,10 @@ Follow this procedure to create the standard folder structure and rename a set o
 - [ ] The original extension remains unchanged. 
 
 ### Part 4: Assign file permissions
-1. Click "Share" from the list of actions for the file you would like to edit. 
+1. Click "Share" from the list of actions for the file you would like to share with others. 
 2. Type in the email addresses of members who require access to the file. 
 3. Each entered name will appear with a drop down box to the right of it.
-4. Select the level of access required for each individual. Executive board members should always be given Editor access, and most regular members should only need Viewer access. 
+4. Select the level of access required for each individual. Executive board members should always be given Editor access, and most regular members only need Viewer access. 
 5. Ensure that members are able to open files within their assigned level of access. 
 
 ### Part 5: Archive material 
